@@ -1,0 +1,16 @@
+name: pomodoro_tasks
+description: A simple tasks manager with Pomodoro timer using only setState
+publish_to: 'none'
+version: 0.1.0
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
